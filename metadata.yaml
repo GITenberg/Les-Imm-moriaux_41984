@@ -1,0 +1,30 @@
+_repo: Les-Imm-moriaux_41984
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41984-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Segalen, Victor
+    aliases:
+    - Anély, Max
+    - Anely, Max
+    birthdate: 1878
+    deathdate: 1919
+    gutenberg_agent_id: '41466'
+    url: http://www.gutenberg.org/2009/agents/41466
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41984'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tahiti (French Polynesia : Island) -- Fiction'
+- !lcc 'PQ'
+title: Les Immémoriaux
+url: http://www.gutenberg.org/ebooks/41984
